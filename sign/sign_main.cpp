@@ -8,7 +8,7 @@ void sign(int n)
 		cout << "No Parking: " << n << endl;
 		n--;
 	}
-}
+} 
 
 int main()
 {
